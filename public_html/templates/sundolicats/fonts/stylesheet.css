@@ -73,8 +73,8 @@
   font-family: 'CenturyGothicRegular';
   src: url('CenturyGothicRegular.eot');
   src: url('CenturyGothicRegular.eot?#iefix') format('embedded-opentype'),
-       url('CenturyGothicRegular.woff') format('woff');
-	   url('CenturyGothicRegular.ttf') format('truetype');
+       url('CenturyGothicRegular.woff') format('woff'),
+       url('CenturyGothicRegular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;}
  

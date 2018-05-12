@@ -89,7 +89,7 @@ hr { width:100%; clear:both; border:none; height:1px; border-bottom:2px dashed #
 /* Menu*/
 #navr {position: relative;  padding:0; height:64px; margin:0; background:#dbc49a;}
 #navl { position: relative;  }
-#nav {   text-align: center; padding:0;  repeat-x; height:64px;  position:relative; background: #dbc49a; }
+#nav {   text-align: center; padding:0; height:64px;  position:relative; background: #dbc49a; }
 #navr:before {content:""; position:absolute; width:100%; height:19px; background:url(../images/menu-line-top.png) repeat-x center; top:-19px; left:0; z-index:1;}
 #navr:after {content:""; position:absolute; width:100%; height:19px; background:url(../images/menu-line-bottom.png) repeat-x center; bottom:-19px; left:0; z-index:1;}
 #nav ul {margin:0; padding:0; position:relative;  }
@@ -327,7 +327,7 @@ ul.pagenav { display:block;} ul.pagenav li { list-style:none;}
 #sidebar .module-blank-1 {text-align:center}
 #sidebar .module-blank-1 ul li {display: inline-block; list-style:none}
 
-/*Модуль катеогрии аккордион*/
+/*пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ*/
 #sidebar .module-body-alt-2 ul {margin:0}
 #sidebar .module-body-alt-2 ul  li {list-style:none;     margin-top: 3px;    margin-bottom: 3px;    border-bottom: 1px dashed #c5c5c5;    font-family: 'code_proregular';        color: #006729;    font-size: 16px;    line-height: 30px;}
  #sidebar .module-body-alt-2 .parent ul li {font-family:'CenturyGothicRegular'; padding-left:10px; }
@@ -397,7 +397,7 @@ ul.pagenav { display:block;} ul.pagenav li { list-style:none;}
 
 #bottom-w {margin:0; }
 #bottom { position:relative; margin:0; padding:10px 0 0 0;}
-/* copy - футер справа*/
+/* copy - пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ*/
 .copy {  padding:0;color:#fff; text-align: left;   float: left;}
 .copy p { color:#b89774; text-align:left;  padding-left:10px; font-size:12px; margin:0;}
 .copy a, copy a:visited { color:#515a68}.copy a:hover {color:#d1d1d1}
@@ -408,7 +408,7 @@ ul.pagenav { display:block;} ul.pagenav li { list-style:none;}
 .copy ul li a:hover {color:#F1D5B7;}
 .healtcare {margin:0; padding:0 10px 0 0; font-size:10px; color:#7fb7c3; text-align:right; float:right;}
 .healtcare a { text-decoration:none; font-size:10px;color:#7fb7c3}
-/*count - футер  слева*/
+/*count - пїЅпїЅпїЅпїЅпїЅ  пїЅпїЅпїЅпїЅпїЅ*/
 .count {padding:0 ; margin:0; color:#d4faa4; text-align: right; float: right; }
 .count p{ color:#3887af; text-align: right; font-size:12px; padding-left:10px;}
 .count h3 {color:#b90e0c; font-size:30px;} .count h3 span{color:#02566e; font-size:24px;}
@@ -474,7 +474,7 @@ table.position {	position: relative;	width: 100%;	table-layout: fixed;}
 .module-bottom-top1{ background: url(../images/bg_top1.jpg); position:relative; padding:0; margin-bottom:20px;border-left: #2a4500 2px solid; border-top: #2a4500 2px solid; border-right:#2a4500 2px solid;}
 .module-top1 { background:url(../images/module-bottom.png) no-repeat bottom center;  margin-bottom:-18px; padding:10px 10px 30px 10px;}
 .module-title-top1 {; font-size:26px; text-transform:uppercase;;  background:url(../images/title-top.png) no-repeat left top; height:53px; padding-left:95px;}
-.module-bottom-top2{ background: url(../images/bg_top2.jpg); position:relative; padding:0; margin-bottom:20px;b}
+.module-bottom-top2{ background: url(../images/bg_top2.jpg); position:relative; padding:0; margin-bottom:20px;}
 .module-top2 {padding:10px 10px 30px 10px;}
 .module-title-top2 {font-size:26px; text-transform:uppercase;}
 .module-bottom-top3{  position:relative; padding:0; margin-bottom:20px;}
@@ -504,7 +504,7 @@ table.position {	position: relative;	width: 100%;	table-layout: fixed;}
 #sidebar .module-body-dark a {padding:0; margin:0 0 5px 0; text-align:center; color:#AD4B36;}
 #sidebar .module-body-dark a:hover { color:#a16702;}
 #sidebar .module-main-dark { position: relative;  margin:0; padding:0;  }
-#sidebar .module-top-dark { position: relative; top:0 left:0;  }
+#sidebar .module-top-dark { position: relative; top:0; left:0;  }
 #sidebar .module-bottom-dark{ position: relative; margin:0; padding:0; }
 #sidebar .module-title-dark{    color: #AD4B36;    font-size:30px; font-family: 'DINPro-Regular';letter-spacing: 1px;    line-height: 30px;    margin: 0; text-align: center;}
 
