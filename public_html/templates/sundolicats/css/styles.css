@@ -602,149 +602,203 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
         margin: 0 auto;
     }
     
+    #description {
+        width: 90%;
+    }
+    
+    
 }
 
 /*
     RESPONSIVE STYLE
  */
-
-@media screen and (max-width: 1486px) {
-    
-    .menutitle {
-        /*border: 3px solid red;*/
-        font-size: 0.8em;
-    }
-    
-    .menu-ref {
-        /*border: 3px solid red;*/
-        height: 30px;
-        width: 150px;
-    }
-    
-    .module-title {
-        /*border: 3px solid red;*/
-        font-size: 0.9em !important;
-        width: 170px;
-    }
-    
-    .data {
-        /*border: 3px solid red;*/
-        font-size: 0.7em;
-        width: 170px;
-        margin-top: 3px;
-        margin-bottom: 3px; 
-    }
-    
-    .news-text {
-        font-size: 0.9em;
-    }
-    
-    .item-page-title {
-        font-size: 20px;
-    }
-    
-    .description-cat {
-        font-size: 0.8em;
-    }
-    
-}
-
+ 
+ 
 #subLogoHidden {
     display: none;
-    float: left;
 }
 
-@media screen and (max-width: 1350px) {
+@media screen and (max-width: 1100px) {
+    
+    #description {
+        width: 75%;
+    }
+    
+}
 
-    .menutitle {
-        /*border: 3px solid red;*/
-        font-size: 0.8em;
+@media screen and (max-width: 1000px) {
+    
+    #description {
+        width: 70%;
     }
     
-    .menu-ref {
-        /*border: 3px solid red;*/
-        height: 30px;
-        width: 150px;
-    }
-    
-    .module-title {
-        /*border: 3px solid red;*/
-        font-size: 0.9em !important;
-        width: 170px;
-    }
-    
-    .data {
-        /*border: 3px solid red;*/
-        font-size: 0.7em;
-        width: 170px;
-        margin-top: 3px;
-        margin-bottom: 3px; 
-    }
-    
-    .news-text {
-        font-size: 0.9em;
-    }
-    
-    .item-page-title {
-        font-size: 20px;
-    }
-    
-    .description-cat {
-        font-size: 0.8em;
-    }
+}
+
+@media screen and (max-width: 940px) {
     
     #subLogo {
         display: none;
     }
-
+    
     #subLogoHidden {
         display: inline;
     }
     
-}
-
-@media screen and (max-width: 900px) {
-
     .menutitle {
         font-size: 0.8em;
     }
     
-    .menu-ref {
-        height: 30px;
-        width: 150px;
-    }
-    
     .module-title {
         font-size: 0.9em !important;
-        width: 170px;
     }
     
     .data {
         font-size: 0.7em;
-        width: 170px;
-        margin-top: 3px;
-        margin-bottom: 3px; 
     }
     
     .news-text {
         font-size: 0.9em;
     }
     
-    .item-page-title {
-        font-size: 20px;
+    #leftbar-w {
+        width: 19%;
+    }
+    
+    .menu-ref {
+        height: 30px;
+    }
+       
+}
+
+@media screen and (max-width: 880px) {
+ 
+    #subLogoHidden {
+        width: 390px;
+        height: 270px;
+        float: left;
     }
     
     .description-cat {
         font-size: 0.8em;
     }
     
-    #subLogo {
-        display: none;
+    #description {
+        width: 65%;
+    }
+    
+}
+
+@media screen and (max-width: 840px) {
+    
+    .menutitle {
+        font-size: 0.7em;
+    }
+    
+    #leftbar-w {
+        width: 17%;
+    }
+
+}
+
+@media screen and (max-width: 815px) {
+   
+    #leftbar-w {
+        width: 16%;
     }
     
     #subLogoHidden {
-        width: 450px; 
-        height: 331px;
+        width: 64%;
+        height: 64%;
+        float: none;
     }
+    
+}
 
+@media screen and (max-width: 790px) {
+    
+    #subLogoHidden {
+        width: 59%;
+        height: 59%;
+    }
+    
+    #description {
+        width: 60%;
+    }
+    
+}
+
+@media screen and (max-width: 750px) {
+    
+    #subLogoHidden {
+        width: 55%;
+        height: 55%;
+    }
+    
+    #description {
+        width: 56%;
+    }
+    
+}
+
+@media screen and (max-width: 710px) {
+    
+    #subLogoHidden {
+        width: 49%;
+        height: 49%;
+    }
+    
+    #description {
+        width: 50%;
+    }
+    
+}
+
+@media screen and (max-width: 655px) {
+    
+    #subLogoHidden {
+        width: 44%;
+        height: 44%;
+    }
+    
+    #description {
+        width: 45%;
+    }
+    
+}
+
+@media screen and (max-width: 625px) {
+    
+    #subLogoHidden {
+        width: 40%;
+        height: 40%;
+    }
+    
+    #description {
+        width: 41%;
+    }
+    
+}
+
+@media screen and (max-width: 590px) {
+    
+    .menutitle {
+        font-size: 0.6em;
+    }
+    
+    .module-title {
+        font-size: 0.8em !important;
+    }
+    
+    .data {
+        font-size: 0.6em;
+    }
+    
+    .news-text {
+        font-size: 0.8em;
+    }
+    
+    #leftbar-w {
+        width: 14%;
+    }
+    
 }
