@@ -622,6 +622,14 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
     #description {
         width: 90%;
     }
+    
+/*    .item-page-title {
+        font-size: 0.9em;
+    }*/
+
+    #divTitle {
+        width: 90%;
+    }
         
 }
 
@@ -639,8 +647,8 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
         width: 75%;
     }
     
-    #imgHeader {
-        width: 85%;
+    #divTitle {
+        width: 75%;
     }
     
     #header {
@@ -655,8 +663,8 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
         width: 70%;
     }
     
-    #imgHeader {
-        width: 75%;
+    #divTitle {
+        width: 70%;
     }
     
     #header {
@@ -699,8 +707,8 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
         height: 30px;
     }
     
-    #imgHeader {
-        width: 65%;
+    #divTitle {
+        width: 68%;
     }
        
 }
@@ -719,10 +727,6 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
     
     #description {
         width: 65%;
-    }
-    
-    #imgHeader {
-        width: 55%;
     }
     
 }
@@ -751,6 +755,10 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
         float: none;
     }
     
+    #divTitle {
+        width: 60%;
+    }
+    
 }
 
 @media screen and (max-width: 790px) {
@@ -762,6 +770,10 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
     
     #description {
         width: 60%;
+    }
+    
+    .item-page-title {
+        font-size: 0.9em;
     }
     
 }
@@ -790,6 +802,10 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
         width: 50%;
     }
     
+    #divTitle {
+        width: 50%;
+    }
+    
 }
 
 @media screen and (max-width: 655px) {
@@ -803,6 +819,10 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
         width: 45%;
     }
     
+    #divTitle {
+        width: 47%;
+    }
+    
 }
 
 @media screen and (max-width: 625px) {
@@ -814,6 +834,10 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
     
     #description {
         width: 41%;
+    }
+    
+    #divTitle {
+        width: 40%;
     }
     
 }
@@ -857,6 +881,9 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
         width: 58%;
     }
   
+    #divTitle {
+        width: 48%;
+    }
 
 }
 
@@ -869,6 +896,10 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
     
     #description {
         width: 56%;
+    }
+    
+    #divTitle {
+        width: 51%;
     }
 
 }
@@ -883,6 +914,10 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
     #description {
         width: 53%;
     }
+    
+    #divTitle {
+        width: 48%;
+    }
 
 }
 
@@ -895,6 +930,10 @@ address {display:inline-block; border-left:7px solid #e0d1b8; padding-left:10px;
     
     #description {
         width: 51%;
+    }
+    
+    #divTitle {
+        width: 40%;
     }
 
 }
